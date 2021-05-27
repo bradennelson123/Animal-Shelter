@@ -25,7 +25,7 @@ h2  {
 h3 { color: blueviolet; border: black; border-style:solid;
   text-align: center;
 }
-h4 {text-align: center;
+h4 {text-align: center; color: blueviolet;
 
 }
 ul { color: blueviolet;
@@ -37,9 +37,16 @@ img.adoption {
   border: black; border-style: solid
 
 }
-body {background-color: rgb(243, 239, 239);
-
+body {background-color: rgb(243, 239, 239); 
+background-image: url(https://i.pinimg.com/originals/85/6f/31/856f31d9f475501c7552c97dbe727319.jpg);
 }
 .middletext { color: rgb(2, 2, 2); font-size: large; font:status-bar
+}
+.pug { float:left
+
+  }
+  .pig { float: right; border-style: solid;
+  }
+.sheep { float: right;
 
 }
