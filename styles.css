@@ -1,0 +1,45 @@
+.ourmission { 
+  color: rgb(255, 1, 179);
+  
+
+}
+#pdx { color: blue
+
+}
+.ourmission {
+  scrollbar-highlight-color: rgb(77, 196, 30);
+}
+.sidebar{
+  float: left; color: blueviolet;
+}
+h1 {color: blueviolet; text-align: center; 
+
+}
+
+h2  {
+  color: blueviolet;
+  text-align: center;
+  border: black; border-style:groove;
+  background-color: blueviolet;
+}
+h3 { color: blueviolet; border: black; border-style:solid;
+  text-align: center;
+}
+h4 {text-align: center;
+
+}
+ul { color: blueviolet;
+
+}
+
+img.adoption {
+  float: right;
+  border: black; border-style: solid
+
+}
+body {background-color: rgb(243, 239, 239);
+
+}
+.middletext { color: rgb(2, 2, 2); font-size: large; font:status-bar
+
+}
